@@ -1,12 +1,3 @@
-Hi Gophers, My name is Alex Pliutau.
-
-I want to apologize that I haven't uploaded any videos in the last 2 months. I was busy with relocation to Berlin. Yes, I changed my job and now I am working as Technical Manager at 24metrics where we're building new-gen product in AdTech using Go for our backend services. If you are looking for a job and you want to join my team, check the link below.
-
-As you may know Go 1.11 includes opt-in feature for versioned modules. Before go modules Gophers used dependency managers like `dep` or `glide`, but with go modules you don't need a 3rd-party manager as they are included into standard `go` toolchain.
-
-Also modules allow for the deprecation of the GOPATH, which was a blocker for some newcomers in Go.
-
-In this video I am going to demonstrate how to enable go modules for your program and then package it with Docker. And you will see how easy it is.
 
 ## Create a project
 
